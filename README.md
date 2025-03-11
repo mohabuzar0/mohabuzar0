@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mohabuzar0
-- 👀 I’m interested in graphic designing, content writing, philosophy and a liitle bit of programming
-- 🌱 I’m currently learning RUBY.
+- 👀 I’m interested in graphic designing, content writing, philosophy and a liitle bit of programming.
 - 💞️ I’m looking to meet people with a bit same interest and will collaborate on web-developing and writings.
 - 📫 You can reach me on instagram @moh.abuzar.
 <!---
